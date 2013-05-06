@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>باش بەت</item>
+        <item>ئىش</item>
+        <item>باشقا</item>
+        <item>ئۆزلەشتۈر</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>ياخۇ</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>ئىش</item>
+        <item>باشقا</item>
+        <item>ئۆزلەشتۈر</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>باش بەت</item>
+        <item>كۆچمە</item>
+        <item>ئىش</item>
+        <item>ئىش فاكىس</item>
+        <item>ئوي فاكىس</item>
+        <item>چاقىرغۇ</item>
+        <item>باشقا</item>
+        <item>ئۆزلەشتۈر</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>باش بەت</item>
+        <item>ئىش</item>
+        <item>باشقا</item>
+        <item>ئۆزلەشتۈر</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>باش بەت</item>
+        <item>ئىش</item>
+        <item>باشقا</item>
+        <item>ئۆزلەشتۈر</item>
+    </string-array>
+</resources>
