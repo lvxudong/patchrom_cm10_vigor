@@ -2,13 +2,14 @@
 # Makefile for rezound
 #
 # The original zip file, MUST be specified by each product
-PORT_PRODUCT := Rezound
-BUILD_NUMBER := 3.5.5
+PORT_PRODUCT := rezound_lvxudong
 
 local-zip-file     := stockrom.zip
 
 # The output zip file of MIUI rom, the default is porting_miui.zip if not specified
 local-out-zip-file := MIUI_Rezound.zip
+
+local-previous-target-dir := /media/Source/ota_base/rezound
 
 local-density := XHDPI
 
